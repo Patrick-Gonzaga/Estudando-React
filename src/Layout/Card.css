@@ -6,16 +6,17 @@
     margin: 10px;
     display: flex;
     flex-direction: column;
-    min-width: 300px;
-    max-width: 300px;
+    min-width: 500px;
+    max-width: 500px;
 }
 
 .Card .Title{
-    color: black;
+    color: white;
     text-align: center;
     font-weight: 700;
     padding: 10px;
     font-size: 20px;
+    
 }
 
 .Card .Content{

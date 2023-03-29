@@ -1,0 +1,19 @@
+.Produtos-Table{
+    border-radius: 15px;
+    overflow: hidden;
+}
+.Produtos-Table table{
+    width: 100%;
+
+}
+
+.Produtos-Table .Par{
+    background-color:brown;
+}
+.Produtos-Table .Impar{
+    background-color:cadetblue;
+}
+
+.Produtos-Table th{
+    background-color:darkmagenta;
+}
